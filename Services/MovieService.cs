@@ -9,7 +9,7 @@ namespace TheyShoot.Services
 {
     public class MovieService
     {
-        private string _filePath = "C:\\Users\\tlizee\\CODE\\C#_12\\TheyShoot\\Data\\theyshootpictures.csv";
+        private string _filePath = "C:/Users/tlizee/CODE/C#_12/TheyShoot/Data/theyshootpictures.csv";
         private List<Movie> movies;
         private List<Func<Movie, bool>> predicates;
 
