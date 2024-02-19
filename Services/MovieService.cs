@@ -10,31 +10,32 @@ namespace TheyShoot.Services
     public class MovieService
     {
         private string _filePath = "C:\\Users\\tlizee\\CODE\\C#_12\\TheyShoot\\Data\\theyshootpictures.csv";
-        public List<Movie> movies;
+        private List<Movie> movies;
+        private List<Func<Movie, bool>> predicates;
 
         public MovieService()
         {
             movies = new CSVService<Movie>().Read(_filePath);
+            predicates = new List<Func<Movie, bool>> { m => true };
+        }
+        public List<Movie> GetMovies()
+        {
+            return movies.Where(m => predicates.All(predicate => predicate(m))).ToList();
         }
 
-        public List<Movie> GetAll()
+        public void AddPredicate(Func<Movie, bool> additionalPredicate)
         {
-            return movies;
+            predicates.Add(additionalPredicate);
         }
 
-        public List<Movie> GetMovies(Func<Movie, bool> predicate)
+        public void RemovePredicate(Func<Movie, bool> predicateToRemove)
         {
-            return movies.Where(predicate).ToList();
+            predicates.Remove(predicateToRemove);
         }
 
-        public List<Movie> GetMoviesFromCountry(string country)
+        public void ResetPredicate()
         {
-            return movies.Where(m => m.Country == country).ToList();
-        }
-
-        public List<Movie> GetMoviesFromDirector(string director)
-        {
-            return movies.Where(m => m.Director.Contains(director)).ToList();
+            predicates.Clear();
         }
     }
 }

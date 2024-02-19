@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <PackageReference Include="CsvHelper" Version="31.0.0" />
+    <PackageReference Include="PredicateBuilder" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
