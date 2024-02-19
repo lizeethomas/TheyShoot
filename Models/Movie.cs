@@ -10,10 +10,10 @@ namespace TheyShoot.Models
     public class Movie
     {
         [Name("RANK")]
-        public string Rank { get; set; }
+        public int Rank { get; set; }
 
         [Name("OLD RANK")]
-        public string OldRank { get; set; }
+        public int OldRank { get; set; }
 
         [Name("TITLE")]
         public string Title { get; set; }
@@ -22,7 +22,7 @@ namespace TheyShoot.Models
         public string Director { get; set; }
 
         [Name("DATE")]
-        public string Date { get; set; }
+        public int Date { get; set; }
 
         [Name("COUNTRY")]
         public string Country { get; set; }

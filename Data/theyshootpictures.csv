@@ -132,7 +132,7 @@ RANK,OLD RANK,TITLE,DIRECTOR,DATE,COUNTRY,TIME
 131,132,Alien,"Scott, Ridley",1979,USA,117
 132,131,Imitation of Life,"Sirk, Douglas",1959,USA,124
 133,134,All About Eve,"Mankiewicz, Joseph L.",1950,USA,138
-134,133,Histoire(s) du cinéma,"Godard, Jean-Luc",1988-98,France,267
+134,133,Histoire(s) du cinéma,"Godard, Jean-Luc",1988,France,267
 135,135,My Darling Clementine,"Ford, John",1946,USA,97
 136,147,E.T. The Extra-Terrestrial,"Spielberg, Steven",1982,USA,115
 137,140,Spirited Away,"Miyazaki, Hayao",2001,Japan,124
@@ -874,7 +874,7 @@ RANK,OLD RANK,TITLE,DIRECTOR,DATE,COUNTRY,TIME
 873,894,Mikey and Nicky,"May, Elaine",1976,USA,106
 874,884,Gloria,"Cassavetes, John",1980,USA,121
 875,901,Monty Python and the Holy Grail,"Gilliam, Terry & Terry Jones",1975,UK,90
-876,---,After Hours,"Scorsese, Martin",1985,USA,97
+876,0,After Hours,"Scorsese, Martin",1985,USA,97
 877,867,"Miracle of Morgan's Creek, The","Sturges, Preston",1944,USA,99
 878,859,"Misfits, The","Huston, John",1961,USA,124
 879,866,"Great Escape, The","Sturges, John",1963,USA,172
@@ -940,14 +940,14 @@ RANK,OLD RANK,TITLE,DIRECTOR,DATE,COUNTRY,TIME
 939,971,Blood Simple,"Coen, Joel & Ethan Coen",1984,USA,97
 940,945,"History of Violence, A","Cronenberg, David",2005,USA,96
 941,925,"Khrustalyov, My Car!","German, Aleksei",1998,Russia,147
-942,---,"Ice Storm, The","Lee, Ang",1997,USA,113
+942,0,"Ice Storm, The","Lee, Ang",1997,USA,113
 943,956,Near Dark,"Bigelow, Kathryn",1987,USA,95
 944,922,"Last Emperor, The","Bertolucci, Bernardo",1987,China,163
 945,928,"Fountainhead, The","Vidor, King",1949,USA,114
 946,969,Before Sunrise,"Linklater, Richard",1995,USA,101
 947,944,American Beauty,"Mendes, Sam",1999,USA,121
 948,926,Doomed Love [TV],"Oliveira, Manoel de",1978,Portugal,262
-949,---,Tabu,"Gomes, Miguel",2012,Portugal,118
+949,0,Tabu,"Gomes, Miguel",2012,Portugal,118
 950,940,"Chienne, La","Renoir, Jean",1931,France,95
 951,934,Perfumed Nightmare,"Tahimik, Kidlat",1977,Philippines,93
 952,931,Sawdust and Tinsel,"Bergman, Ingmar",1953,Sweden,92
@@ -961,24 +961,24 @@ RANK,OLD RANK,TITLE,DIRECTOR,DATE,COUNTRY,TIME
 960,981,"Tarnished Angels, The","Sirk, Douglas",1957,USA,91
 961,916,Othello,"Welles, Orson",1951,Italy,90
 962,939,Port of Shadows,"Carné, Marcel",1938,France,91
-963,---,Shaun of the Dead,"Wright, Edgar",2004,UK,99
+963,0,Shaun of the Dead,"Wright, Edgar",2004,UK,99
 964,937,Gun Crazy,"Lewis, Joseph H.",1950,USA,86
 965,980,"Return, The","Zvyagintsev, Andrey",2003,Russia,110
-966,---,Summer with Monika,"Bergman, Ingmar",1953,Sweden,96
+966,0,Summer with Monika,"Bergman, Ingmar",1953,Sweden,96
 967,968,Rope,"Hitchcock, Alfred",1948,USA,80
-968,---,Ride the High Country,"Peckinpah, Sam",1962,USA,94
+968,0,Ride the High Country,"Peckinpah, Sam",1962,USA,94
 969,961,Anatahan,"von Sternberg, Josef",1953,Japan,92
-970,---,I Am Twenty,"Khutsiev, Marlen",1965,USSR,189
+970,0,I Am Twenty,"Khutsiev, Marlen",1965,USSR,189
 971,976,"Lord of the Rings: The Return of the King, The","Jackson, Peter",2003,New Zealand,201
 972,947,"Bête humaine, La","Renoir, Jean",1938,France,100
 973,986,"Page of Madness, A","Kinugasa, Teinosuke",1926,Japan,70
 974,959,Duel,"Spielberg, Steven",1971,USA,90
 975,987,Z,"Costa-Gavras, Constantin",1969,France,127
-976,---,Gilda,"Vidor, Charles",1946,USA,110
+976,0,Gilda,"Vidor, Charles",1946,USA,110
 977,979,Beyond the Valley of the Dolls,"Meyer, Russ",1970,USA,109
-978,---,"Breakfast Club, The","Hughes, John",1985,USA,97
+978,0,"Breakfast Club, The","Hughes, John",1985,USA,97
 979,953,"Reckless Moment, The","Ophüls, Max",1949,USA,82
-980,---,Avatar,"Cameron, James",2009,USA,161
+980,0,Avatar,"Cameron, James",2009,USA,161
 981,958,Spartacus,"Kubrick, Stanley",1960,USA,197
 982,965,"Trou, Le","Becker, Jacques",1960,France,131
 983,960,Handsworth Songs,"Akomfrah, John",1986,UK,61
@@ -988,8 +988,8 @@ RANK,OLD RANK,TITLE,DIRECTOR,DATE,COUNTRY,TIME
 987,996,Sholay,"Sippy, Ramesh",1975,India,162
 988,988,"Host, The",Bong Joon-ho,2006,South Korea,119
 989,970,Berlin: Symphony of a Great City,"Ruttmann, Walter",1927,Germany,65
-990,---,"Sorpasso, Il","Risi, Dino",1962,Italy,105
-991,---,Ed Wood,"Burton, Tim",1994,USA,124
+990,0,"Sorpasso, Il","Risi, Dino",1962,Italy,105
+991,0,Ed Wood,"Burton, Tim",1994,USA,124
 992,950,Arabian Nights,"Pasolini, Pier Paolo",1974,Italy,130
 993,983,"America, America","Kazan, Elia",1963,USA,168
 994,966,"Godfather Part III, The","Coppola, Francis Ford",1990,USA,161
