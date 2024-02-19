@@ -1,0 +1,1001 @@
+RANK,OLD RANK,TITLE,DIRECTOR,DATE,COUNTRY,TIME
+1,1,Citizen Kane,"Welles, Orson",1941,USA,119
+2,2,Vertigo,"Hitchcock, Alfred",1958,USA,128
+3,3,2001: A Space Odyssey,"Kubrick, Stanley",1968,UK,139
+4,4,Tokyo Story,"Ozu, Yasujiro",1953,Japan,134
+5,5,"Rules of the Game, The","Renoir, Jean",1939,France,113
+6,6,"Godfather, The","Coppola, Francis Ford",1972,USA,175
+7,7,8½,"Fellini, Federico",1963,Italy,135
+8,8,Sunrise,"Murnau, F.W.",1927,USA,110
+9,9,"Searchers, The","Ford, John",1956,USA,119
+10,10,Seven Samurai,"Kurosawa, Akira",1954,Japan,200
+11,11,Singin' in the Rain,"Donen, Stanley & Gene Kelly",1952,USA,102
+12,12,"Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles","Akerman, Chantal",1975,Belgium,201
+13,13,Apocalypse Now,"Coppola, Francis Ford",1979,USA,150
+14,15,Taxi Driver,"Scorsese, Martin",1976,USA,113
+15,14,Bicycle Thieves,"De Sica, Vittorio",1948,Italy,89
+16,16,Persona,"Bergman, Ingmar",1966,Sweden,83
+17,19,In the Mood for Love,Wong Kar-wai,2000,Hong Kong,97
+18,17,"Passion of Joan of Arc, The","Dreyer, Carl Theodor",1928,France,110
+19,18,Breathless,"Godard, Jean-Luc",1960,France,89
+20,21,"Atalante, L'","Vigo, Jean",1934,France,89
+21,20,Battleship Potemkin,"Eisenstein, Sergei",1925,USSR,71
+22,22,"Man with a Movie Camera, The","Vertov, Dziga",1929,USSR,80
+23,23,Mirror,"Tarkovsky, Andrei",1975,USSR,107
+24,24,Rashomon,"Kurosawa, Akira",1950,Japan,88
+25,25,City Lights,"Chaplin, Charles",1931,USA,86
+26,27,"400 Blows, The","Truffaut, François",1959,France,99
+27,28,Andrei Rublev,"Tarkovsky, Andrei",1966,USSR,185
+28,26,Psycho,"Hitchcock, Alfred",1960,USA,109
+29,29,Au hasard Balthazar,"Bresson, Robert",1966,France,95
+30,33,Mulholland Dr.,"Lynch, David",2001,France,147
+31,31,"Godfather Part II, The","Coppola, Francis Ford",1974,USA,200
+32,30,Some Like it Hot,"Wilder, Billy",1959,USA,121
+33,34,Ordet,"Dreyer, Carl Theodor",1955,Denmark,125
+34,32,"Dolce vita, La","Fellini, Federico",1960,Italy,175
+35,35,Raging Bull,"Scorsese, Martin",1980,USA,129
+36,36,"Night of the Hunter, The","Laughton, Charles",1955,USA,92
+37,37,"Avventura, L'","Antonioni, Michelangelo",1960,Italy,145
+38,42,Casablanca,"Curtiz, Michael",1942,USA,102
+39,38,Rear Window,"Hitchcock, Alfred",1954,USA,112
+40,39,Playtime,"Tati, Jacques",1967,France,108
+41,47,Blade Runner,"Scott, Ridley",1982,USA,118
+42,44,Contempt,"Godard, Jean-Luc",1963,France,103
+43,45,Barry Lyndon,"Kubrick, Stanley",1975,UK,183
+44,43,Pather Panchali,"Ray, Satyajit",1955,India,112
+45,41,Touch of Evil,"Welles, Orson",1958,USA,108
+46,40,Sunset Blvd.,"Wilder, Billy",1950,USA,110
+47,46,Stalker,"Tarkovsky, Andrei",1979,USSR,160
+48,48,Close-Up,"Kiarostami, Abbas",1990,Iran,98
+49,49,Lawrence of Arabia,"Lean, David",1962,UK,216
+50,50,"General, The","Keaton, Buster & Clyde Bruckman",1926,USA,74
+51,51,Beau travail,"Denis, Claire",1999,France,92
+52,52,Modern Times,"Chaplin, Charles",1936,USA,89
+53,55,Late Spring,"Ozu, Yasujiro",1949,Japan,108
+54,53,M,"Lang, Fritz",1931,Germany,99
+55,54,"Third Man, The","Reed, Carol",1949,UK,104
+56,56,North by Northwest,"Hitchcock, Alfred",1959,USA,136
+57,57,Ugetsu monogatari,"Mizoguchi, Kenji",1953,Japan,96
+58,58,"Battle of Algiers, The","Pontecorvo, Gillo",1966,Italy,121
+59,59,"Apartment, The","Wilder, Billy",1960,USA,125
+60,60,"Grande illusion, La","Renoir, Jean",1937,France,117
+61,61,Wild Strawberries,"Bergman, Ingmar",1957,Sweden,90
+62,62,Fanny and Alexander,"Bergman, Ingmar",1982,Sweden,189
+63,64,GoodFellas,"Scorsese, Martin",1990,USA,146
+64,65,Shoah,"Lanzmann, Claude",1985,France,566
+65,63,Rio Bravo,"Hawks, Howard",1959,USA,141
+66,69,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Kubrick, Stanley",1964,UK,93
+67,66,Pierrot le fou,"Godard, Jean-Luc",1965,France,110
+68,67,Journey to Italy,"Rossellini, Roberto",1954,Italy,97
+69,70,Once Upon a Time in the West,"Leone, Sergio",1968,Italy,165
+70,71,Chinatown,"Polanski, Roman",1974,USA,131
+71,74,Do the Right Thing,"Lee, Spike",1989,USA,120
+72,68,Metropolis,"Lang, Fritz",1927,Germany,153
+73,72,"Strada, La","Fellini, Federico",1954,Italy,115
+74,77,"Woman Under the Influence, A","Cassavetes, John",1974,USA,155
+75,73,"Enfants du paradis, Les","Carné, Marcel",1945,France,195
+76,75,"Leopard, The","Visconti, Luchino",1963,Italy,186
+77,76,Amarcord,"Fellini, Federico",1973,Italy,127
+78,78,"Man Escaped, A","Bresson, Robert",1956,France,102
+79,80,Pulp Fiction,"Tarantino, Quentin",1994,USA,154
+80,81,"Wild Bunch, The","Peckinpah, Sam",1969,USA,135
+81,82,It's a Wonderful Life,"Capra, Frank",1946,USA,129
+82,79,"Seventh Seal, The","Bergman, Ingmar",1957,Sweden,96
+83,84,"Conformist, The","Bertolucci, Bernardo",1970,Italy,107
+84,83,Sansho the Bailiff,"Mizoguchi, Kenji",1954,Japan,125
+85,85,"Magnificent Ambersons, The","Welles, Orson",1942,USA,88
+86,90,"Shining, The","Kubrick, Stanley",1980,USA,142
+87,87,Blue Velvet,"Lynch, David",1986,USA,120
+88,86,Viridiana,"Buñuel, Luis",1961,Spain,90
+89,88,Pickpocket,"Bresson, Robert",1959,France,75
+90,89,Nashville,"Altman, Robert",1975,USA,160
+91,93,"Man Who Shot Liberty Valance, The","Ford, John",1962,USA,119
+92,94,Jaws,"Spielberg, Steven",1975,USA,124
+93,92,"Gold Rush, The","Chaplin, Charles",1925,USA,82
+94,91,Gertrud,"Dreyer, Carl Theodor",1964,Denmark,116
+95,95,"Jetée, La","Marker, Chris",1962,France,27
+96,98,Sans soleil,"Marker, Chris",1983,France,100
+97,97,Cléo from 5 to 7,"Varda, Agnès",1962,France,90
+98,96,Jules et Jim,"Truffaut, François",1962,France,104
+99,99,Meshes of the Afternoon,"Deren, Maya & Alexander Hammid",1943,USA,15
+100,102,Sátántangó,"Tarr, Béla",1994,Hungary,439
+101,103,Sherlock Jr.,"Keaton, Buster",1924,USA,45
+102,100,To Be or Not to Be,"Lubitsch, Ernst",1942,USA,99
+103,101,Madame de...,"Ophüls, Max",1953,France,105
+104,105,Fear Eats the Soul,"Fassbinder, Rainer Werner",1974,West Germany,94
+105,107,"Mother and the Whore, The","Eustache, Jean",1973,France,210
+106,104,"Clockwork Orange, A","Kubrick, Stanley",1971,UK,137
+107,108,"Aguirre, the Wrath of God","Herzog, Werner",1972,West Germany,94
+108,109,Ikiru,"Kurosawa, Akira",1952,Japan,143
+109,106,Last Year at Marienbad,"Resnais, Alain",1961,France,94
+110,111,Annie Hall,"Allen, Woody",1977,USA,94
+111,115,Come and See,"Klimov, Elem",1985,USSR,136
+112,113,"Spirit of the Beehive, The","Erice, Victor",1973,Spain,95
+113,112,Greed,"von Stroheim, Erich",1924,USA,140
+114,116,"Piano, The","Campion, Jane",1993,New Zealand,121
+115,110,"Brighter Summer Day, A","Yang, Edward",1991,Taiwan,237
+116,114,Once Upon a Time in America,"Leone, Sergio",1984,Italy,229
+117,119,"Wizard of Oz, The","Fleming, Victor",1939,USA,101
+118,118,Yi Yi,"Yang, Edward",2000,Taiwan,173
+119,117,Hiroshima mon amour,"Resnais, Alain",1959,France,91
+120,120,"Red Shoes, The","Powell, Michael & Emeric Pressburger",1948,UK,133
+121,122,Don't Look Now,"Roeg, Nicolas",1973,UK,110
+122,124,Bringing Up Baby,"Hawks, Howard",1938,USA,102
+123,121,Intolerance,"Griffith, D.W.",1916,USA,178
+124,123,Blow-Up,"Antonioni, Michelangelo",1966,Italy,111
+125,128,"Day in the Country, A","Renoir, Jean",1936,France,40
+126,125,"Eclisse, L'","Antonioni, Michelangelo",1962,Italy,126
+127,127,Letter from an Unknown Woman,"Ophüls, Max",1948,USA,90
+128,126,"Matter of Life and Death, A","Powell, Michael & Emeric Pressburger",1946,UK,104
+129,129,Vivre sa vie,"Godard, Jean-Luc",1962,France,85
+130,130,Notorious,"Hitchcock, Alfred",1946,USA,101
+131,132,Alien,"Scott, Ridley",1979,USA,117
+132,131,Imitation of Life,"Sirk, Douglas",1959,USA,124
+133,134,All About Eve,"Mankiewicz, Joseph L.",1950,USA,138
+134,133,Histoire(s) du cinéma,"Godard, Jean-Luc",1988-98,France,267
+135,135,My Darling Clementine,"Ford, John",1946,USA,97
+136,147,E.T. The Extra-Terrestrial,"Spielberg, Steven",1982,USA,115
+137,140,Spirited Away,"Miyazaki, Hayao",2001,Japan,124
+138,136,"Exterminating Angel, The","Buñuel, Luis",1962,Mexico,95
+139,138,"Olvidados, Los","Buñuel, Luis",1950,Mexico,88
+140,139,His Girl Friday,"Hawks, Howard",1940,USA,92
+141,137,"Gospel According to St. Matthew, The","Pasolini, Pier Paolo",1964,Italy,135
+142,143,Céline and Julie Go Boating,"Rivette, Jacques",1974,France,192
+143,145,Gone with the Wind,"Fleming, Victor",1939,USA,222
+144,142,Killer of Sheep,"Burnett, Charles",1977,USA,83
+145,155,One Flew Over the Cuckoo's Nest,"Forman, Milos",1975,USA,133
+146,141,Daisies,"Chytilová, Věra",1966,Czechoslovakia,76
+147,146,Nosferatu,"Murnau, F.W.",1922,Germany,84
+148,149,"Umbrellas of Cherbourg, The","Demy, Jacques",1964,France,91
+149,144,"Chien andalou, Un","Buñuel, Luis",1928,France,16
+150,151,"Conversation, The","Coppola, Francis Ford",1974,USA,113
+151,157,Wanda,"Loden, Barbara",1970,USA,105
+152,152,"Argent, L'","Bresson, Robert",1983,France,90
+153,154,Days of Heaven,"Malick, Terrence",1978,USA,95
+154,148,"Rome, Open City","Rossellini, Roberto",1945,Italy,105
+155,150,Trouble in Paradise,"Lubitsch, Ernst",1932,USA,83
+156,153,"Good, the Bad and the Ugly, The","Leone, Sergio",1966,Italy,161
+157,159,Chungking Express,Wong Kar-wai,1994,Hong Kong,104
+158,162,Star Wars,"Lucas, George",1977,USA,121
+159,158,Manhattan,"Allen, Woody",1979,USA,96
+160,156,My Neighbour Totoro,"Miyazaki, Hayao",1988,Japan,86
+161,167,There Will Be Blood,"Anderson, Paul Thomas",2007,USA,158
+162,164,Tropical Malady,"Weerasethakul, Apichatpong",2004,Thailand,118
+163,160,Cries and Whispers,"Bergman, Ingmar",1972,Sweden,106
+164,163,"Passenger, The","Antonioni, Michelangelo",1975,Italy,119
+165,165,Badlands,"Malick, Terrence",1973,USA,95
+166,161,"Âge d'or, L'","Buñuel, Luis",1930,France,63
+167,166,"Deer Hunter, The","Cimino, Michael",1978,USA,183
+168,170,Dekalog,"Kieslowski, Krzysztof",1989,Poland,550
+169,173,"Texas Chain Saw Massacre, The","Hooper, Tobe",1974,USA,83
+170,168,Double Indemnity,"Wilder, Billy",1944,USA,106
+171,176,Duck Soup,"McCarey, Leo",1933,USA,70
+172,178,"Discreet Charm of the Bourgeoisie, The","Buñuel, Luis",1972,France,100
+173,169,Touki Bouki,"Diop Mambéty, Djibril",1973,Senegal,85
+174,171,Stagecoach,"Ford, John",1939,USA,96
+175,172,Rosemary's Baby,"Polanski, Roman",1968,USA,136
+176,181,Only Angels Have Wings,"Hawks, Howard",1939,USA,121
+177,175,Earth,"Dovzhenko, Alexander",1930,USSR,75
+178,174,"Colour of Pomegranates, The","Parajanov, Sergei",1969,USSR,80
+179,177,Brief Encounter,"Lean, David",1945,UK,85
+180,180,"Birds, The","Hitchcock, Alfred",1963,USA,119
+181,187,Portrait of a Lady on Fire,"Sciamma, Céline",2019,France,121
+182,179,"River, The","Renoir, Jean",1951,France,99
+183,182,Mouchette,"Bresson, Robert",1967,France,80
+184,183,Ran,"Kurosawa, Akira",1985,France,161
+185,189,Johnny Guitar,"Ray, Nicholas",1954,USA,110
+186,188,Chimes at Midnight,"Welles, Orson",1965,Switzerland,115
+187,190,Vampyr,"Dreyer, Carl Theodor",1932,Germany,73
+188,192,"Notte, La","Antonioni, Michelangelo",1961,Italy,120
+189,193,Out of the Past,"Tourneur, Jacques",1947,USA,97
+190,196,"Tree of Life, The","Malick, Terrence",2011,USA,139
+191,184,Spring in a Small Town,Fei Mu,1948,China,85
+192,191,Black Narcissus,"Powell, Michael & Emeric Pressburger",1947,UK,99
+193,186,Napoléon,"Gance, Abel",1927,France,235
+194,194,Rocco and His Brothers,"Visconti, Luchino",1960,Italy,180
+195,195,Paisan,"Rossellini, Roberto",1946,Italy,120
+196,198,"Salò, or the 120 Days of Sodom","Pasolini, Pier Paolo",1975,Italy,117
+197,185,"City of Sadness, A",Hou Hsiao-hsien,1989,Taiwan,157
+198,204,Vagabond,"Varda, Agnès",1985,France,105
+199,199,"Lady Eve, The","Sturges, Preston",1941,USA,94
+200,197,Nights of Cabiria,"Fellini, Federico",1957,Italy,110
+201,201,"Paris, Texas","Wenders, Wim",1984,USA,150
+202,206,King Kong,"Cooper, Merian C. & Ernest B. Schoedsack",1933,USA,103
+203,202,On the Waterfront,"Kazan, Elia",1954,USA,108
+204,200,"Last Laugh, The","Murnau, F.W.",1924,Germany,77
+205,205,News from Home,"Akerman, Chantal",1976,Belgium,85
+206,221,Close Encounters of the Third Kind,"Spielberg, Steven",1977,USA,135
+207,208,Raiders of the Lost Ark,"Spielberg, Steven",1981,USA,115
+208,211,"Gleaners & I, The","Varda, Agnès",2000,France,82
+209,207,"Life and Death of Colonel Blimp, The","Powell, Michael & Emeric Pressburger",1943,UK,163
+210,203,Death in Venice,"Visconti, Luchino",1971,Italy,130
+211,217,"Thing, The","Carpenter, John",1982,USA,108
+212,209,Wavelength,"Snow, Michael",1967,Canada,45
+213,213,Wings of Desire,"Wenders, Wim",1987,West Germany,130
+214,210,"Great Dictator, The","Chaplin, Charles",1940,USA,128
+215,212,Solaris,"Tarkovsky, Andrei",1972,USSR,165
+216,216,Moonlight,"Jenkins, Barry",2016,USA,111
+217,214,Zero for Conduct,"Vigo, Jean",1933,France,41
+218,223,Kes,"Loach, Ken",1969,UK,113
+219,218,Breaking the Waves,"von Trier, Lars",1996,Denmark,156
+220,219,"Samouraï, Le","Melville, Jean-Pierre",1967,France,101
+221,222,"Grapes of Wrath, The","Ford, John",1940,USA,129
+222,215,Umberto D.,"De Sica, Vittorio",1952,Italy,89
+223,224,Magnolia,"Anderson, Paul Thomas",1999,USA,188
+224,220,"Life of Oharu, The","Mizoguchi, Kenji",1952,Japan,146
+225,236,Brazil,"Gilliam, Terry",1985,UK,131
+226,235,Where is the Friend's House?,"Kiarostami, Abbas",1987,Iran,85
+227,228,"Quiet Man, The","Ford, John",1952,USA,129
+228,237,Sullivan's Travels,"Sturges, Preston",1941,USA,91
+229,230,Love Streams,"Cassavetes, John",1984,USA,141
+230,225,"Black God, White Devil","Rocha, Glauber",1964,Brazil,110
+231,227,"Travelling Players, The","Angelopoulos, Theo",1975,Greece,230
+232,241,"House is Black, The","Farrokhzad, Forugh",1963,Iran,20
+233,229,"Germany, Year Zero","Rossellini, Roberto",1948,Italy,74
+234,232,Red Desert,"Antonioni, Michelangelo",1964,Italy,118
+235,239,McCabe & Mrs. Miller,"Altman, Robert",1971,USA,121
+236,234,"Crowd, The","Vidor, King",1928,USA,104
+237,231,"Matrix, The","Wachowski, Lana & Lilly Wachowski",1999,USA,136
+238,233,Ashes and Diamonds,"Wajda, Andrzej",1958,Poland,96
+239,226,"Autumn Afternoon, An","Ozu, Yasujiro",1962,Japan,115
+240,242,Memories of Underdevelopment,"Gutiérrez Alea, Tomás",1968,Cuba,97
+241,246,Performance,"Roeg, Nicolas & Donald Cammell",1970,UK,105
+242,248,Parasite,Bong Joon-ho,2019,South Korea,132
+243,238,Eraserhead,"Lynch, David",1977,USA,85
+244,240,"Ivan the Terrible, Part 2","Eisenstein, Sergei",1946,USSR,88
+245,243,"Band Wagon, The","Minnelli, Vincente",1953,USA,112
+246,247,"Best Years of Our Lives, The","Wyler, William",1946,USA,172
+247,251,Caché,"Haneke, Michael",2005,France,117
+248,244,"Thin Red Line, The","Malick, Terrence",1998,USA,170
+249,249,Meet Me in St. Louis,"Minnelli, Vincente",1944,USA,113
+250,252,In a Lonely Place,"Ray, Nicholas",1950,USA,91
+251,245,"Ivan the Terrible, Part 1","Eisenstein, Sergei",1944,USSR,96
+252,257,Eternal Sunshine of the Spotless Mind,"Gondry, Michel",2004,USA,108
+253,261,"Big Lebowski, The","Coen, Joel & Ethan Coen",1998,USA,113
+254,250,Daughters of the Dust,"Dash, Julie",1991,USA,112
+255,273,"Green Ray, The","Rohmer, Eric",1986,France,99
+256,255,Belle de jour,"Buñuel, Luis",1967,France,100
+257,256,Diary of a Country Priest,"Bresson, Robert",1951,France,120
+258,253,Red River,"Hawks, Howard",1948,USA,133
+259,254,Tabu,"Murnau, F.W.",1931,USA,82
+260,267,"Graduate, The","Nichols, Mike",1967,USA,105
+261,286,Cinema Paradiso,"Tornatore, Giuseppe",1988,Italy,155
+262,270,Night and Fog,"Resnais, Alain",1955,France,32
+263,265,Uncle Boonmee Who Can Recall His Past Lives,"Weerasethakul, Apichatpong",2010,Thailand,113
+264,264,Heat,"Mann, Michael",1995,USA,174
+265,262,"Cabinet of Dr. Caligari, The","Wiene, Robert",1920,Germany,69
+266,268,"Treasure of the Sierra Madre, The","Huston, John",1948,USA,124
+267,258,Kind Hearts and Coronets,"Hamer, Robert",1949,UK,106
+268,259,Schindler's List,"Spielberg, Steven",1993,USA,195
+269,271,Fargo,"Coen, Joel & Ethan Coen",1996,USA,98
+270,285,"Exorcist, The","Friedkin, William",1973,USA,122
+271,281,Eyes Wide Shut,"Kubrick, Stanley",1999,USA,159
+272,266,Black Girl,"Sembene, Ousmane",1966,Senegal,65
+273,287,Taste of Cherry,"Kiarostami, Abbas",1997,Iran,99
+274,272,F for Fake,"Welles, Orson",1973,France,89
+275,291,"Ciénaga, La","Martel, Lucrecia",2001,Argentina,103
+276,260,Three Colours: Blue,"Kieslowski, Krzysztof",1993,France,100
+277,269,"Shop Around the Corner, The","Lubitsch, Ernst",1940,USA,97
+278,263,"Story of the Last Chrysanthemums, The","Mizoguchi, Kenji",1939,Japan,148
+279,283,Sweet Smell of Success,"Mackendrick, Alexander",1957,USA,96
+280,288,My Night at Maud's,"Rohmer, Eric",1969,France,105
+281,282,Groundhog Day,"Ramis, Harold",1993,USA,103
+282,275,Day of Wrath,"Dreyer, Carl Theodor",1943,Denmark,110
+283,280,Pandora's Box,"Pabst, G.W.",1929,Germany,133
+284,279,"Goodbye, Dragon Inn",Tsai Ming-liang,2003,Taiwan,82
+285,278,"Ascent, The","Shepitko, Larisa",1976,USSR,111
+286,274,Throne of Blood,"Kurosawa, Akira",1957,Japan,110
+287,277,All That Heaven Allows,"Sirk, Douglas",1955,USA,89
+288,284,2 or 3 Things I Know About Her,"Godard, Jean-Luc",1967,France,87
+289,276,Three Colours: Red,"Kieslowski, Krzysztof",1994,France,99
+290,289,India Song,"Duras, Marguerite",1975,France,120
+291,292,Paths of Glory,"Kubrick, Stanley",1957,USA,86
+292,298,Back to the Future,"Zemeckis, Robert",1985,USA,116
+293,290,All About My Mother,"Almodóvar, Pedro",1999,Spain,101
+294,293,"Big Sleep, The","Hawks, Howard",1946,USA,114
+295,302,Army of Shadows,"Melville, Jean-Pierre",1969,France,140
+296,305,Happy Together,Wong Kar-wai,1997,Hong Kong,97
+297,301,"Distant Voices, Still Lives","Davies, Terence",1988,UK,85
+298,295,Mean Streets,"Scorsese, Martin",1973,USA,110
+299,296,Floating Clouds,"Naruse, Mikio",1955,Japan,123
+300,294,"Sacrifice, The","Tarkovsky, Andrei",1986,France,145
+301,310,Mr. Hulot's Holiday,"Tati, Jacques",1953,France,86
+302,299,Unforgiven,"Eastwood, Clint",1992,USA,127
+303,297,"Music Room, The","Ray, Satyajit",1958,India,95
+304,300,Terra em Transe,"Rocha, Glauber",1967,Brazil,106
+305,304,Nanook of the North,"Flaherty, Robert",1922,USA,79
+306,307,Charulata,"Ray, Satyajit",1964,India,117
+307,311,"Maltese Falcon, The","Huston, John",1941,USA,100
+308,308,Faces,"Cassavetes, John",1968,USA,130
+309,319,Monsieur Verdoux,"Chaplin, Charles",1947,USA,123
+310,321,Werckmeister Harmonies,"Tarr, Béla",2000,Hungary,145
+311,314,"Separation, A","Farhadi, Asghar",2011,Iran,123
+312,315,Videodrome,"Cronenberg, David",1983,Canada,90
+313,303,"Verdugo, El","García Berlanga, Luis",1963,Spain,90
+314,340,All That Jazz,"Fosse, Bob",1979,USA,123
+315,331,City of God,"Meirelles, Fernando & Kátia Lund",2002,Brazil,129
+316,313,Kings of the Road,"Wenders, Wim",1976,West Germany,175
+317,317,Lola Montès,"Ophüls, Max",1955,France,116
+318,312,Freaks,"Browning, Tod",1932,USA,64
+319,337,Cabaret,"Fosse, Bob",1972,USA,128
+320,309,"World of Apu, The","Ray, Satyajit",1959,India,103
+321,306,Melancholia,"von Trier, Lars",2011,Denmark,136
+322,323,"Belle et la bête, La","Cocteau, Jean",1946,France,95
+323,316,I Am Cuba,"Kalatozov, Mikhail",1964,Cuba,141
+324,318,Berlin Alexanderplatz [TV],"Fassbinder, Rainer Werner",1980,West Germany,931
+325,322,"Canterbury Tale, A","Powell, Michael & Emeric Pressburger",1944,UK,124
+326,332,"Young Girls of Rochefort, The","Demy, Jacques",1967,France,124
+327,326,Husbands,"Cassavetes, John",1970,USA,138
+328,329,Pyaasa,"Dutt, Guru",1957,India,146
+329,330,"Philadelphia Story, The","Cukor, George",1940,USA,112
+330,333,In the Realm of the Senses,"Oshima, Nagisa",1976,Japan,109
+331,327,"Kid, The","Chaplin, Charles",1921,USA,60
+332,324,Underground,"Kusturica, Emir",1995,Yugoslavia,167
+333,328,"Empire Strikes Back, The","Kershner, Irvin",1980,USA,124
+334,325,Broken Blossoms,"Griffith, D.W.",1919,USA,90
+335,338,Bonnie and Clyde,"Penn, Arthur",1967,USA,111
+336,320,"Time to Live and the Time to Die, The",Hou Hsiao-hsien,1985,Taiwan,137
+337,358,Amadeus,"Forman, Milos",1984,USA,158
+338,369,"King of Comedy, The","Scorsese, Martin",1983,USA,109
+339,341,Tie Xi Qu: West of the Tracks,Wang Bing,2003,China,551
+340,344,"Touch of Zen, A","Hu, King",1971,Taiwan,180
+341,335,"Wages of Fear, The","Clouzot, Henri-Georges",1953,France,105
+342,346,Kiss Me Deadly,"Aldrich, Robert",1955,USA,106
+343,350,Midnight Cowboy,"Schlesinger, John",1969,USA,113
+344,345,Weekend,"Godard, Jean-Luc",1967,France,105
+345,357,"Double Life of Véronique, The","Kieslowski, Krzysztof",1991,France,97
+346,339,El,"Buñuel, Luis",1953,Mexico,91
+347,334,"Puppetmaster, The",Hou Hsiao-hsien,1993,Taiwan,141
+348,360,High and Low,"Kurosawa, Akira",1963,Japan,142
+349,343,"Cloud-Capped Star, The","Ghatak, Ritwik",1960,India,126
+350,348,Out 1,"Rivette, Jacques",1971,France,729
+351,351,"Last Picture Show, The","Bogdanovich, Peter",1971,USA,118
+352,347,West Side Story,"Wise, Robert & Jerome Robbins",1961,USA,151
+353,353,Dog Day Afternoon,"Lumet, Sidney",1975,USA,125
+354,368,Get Out,"Peele, Jordan",2017,USA,104
+355,336,"Tree of Wooden Clogs, The","Olmi, Ermanno",1978,Italy,185
+356,359,Night of the Living Dead,"Romero, George A.",1968,USA,96
+357,363,Mad Max: Fury Road,"Miller, George",2015,Australia,120
+358,364,How Green Was My Valley,"Ford, John",1941,USA,118
+359,352,Some Came Running,"Minnelli, Vincente",1958,USA,136
+360,366,Last Tango in Paris,"Bertolucci, Bernardo",1972,Italy,129
+361,342,Muriel,"Resnais, Alain",1963,France,115
+362,365,Heaven's Gate,"Cimino, Michael",1980,USA,219
+363,362,Make Way for Tomorrow,"McCarey, Leo",1937,USA,92
+364,367,"Cranes Are Flying, The","Kalatozov, Mikhail",1957,USSR,95
+365,349,"Quince Tree Sun, The","Erice, Victor",1992,Spain,133
+366,354,Written on the Wind,"Sirk, Douglas",1956,USA,99
+367,390,It Happened One Night,"Capra, Frank",1934,USA,105
+368,397,"I Was Born, But...","Ozu, Yasujiro",1932,Japan,100
+369,374,Fitzcarraldo,"Herzog, Werner",1982,West Germany,157
+370,355,Marnie,"Hitchcock, Alfred",1964,USA,130
+371,356,Yojimbo,"Kurosawa, Akira",1961,Japan,110
+372,383,Harold and Maude,"Ashby, Hal",1971,USA,91
+373,361,Through the Olive Trees,"Kiarostami, Abbas",1994,Iran,103
+374,370,Peeping Tom,"Powell, Michael",1960,UK,101
+375,403,"Silence of the Lambs, The","Demme, Jonathan",1991,USA,118
+376,385,Two-Lane Blacktop,"Hellman, Monte",1971,USA,101
+377,372,Lost Highway,"Lynch, David",1997,USA,134
+378,398,Stranger Than Paradise,"Jarmusch, Jim",1984,USA,89
+379,371,"Affair to Remember, An","McCarey, Leo",1957,USA,115
+380,377,"Killing of a Chinese Bookie, The","Cassavetes, John",1976,USA,109
+381,376,Teorema,"Pasolini, Pier Paolo",1968,Italy,98
+382,373,"White Ribbon, The","Haneke, Michael",2009,Germany,144
+383,395,Aliens,"Cameron, James",1986,USA,137
+384,375,Tristana,"Buñuel, Luis",1970,Spain,98
+385,378,Stromboli,"Rossellini, Roberto",1950,Italy,107
+386,415,Safe,"Haynes, Todd",1995,USA,119
+387,386,"Hour of the Furnaces, The","Getino, Octavio & Fernando E. Solanas",1968,Argentina,260
+388,379,"Elephant Man, The","Lynch, David",1980,USA,125
+389,384,Mon oncle,"Tati, Jacques",1958,France,126
+390,401,This is Spinal Tap,"Reiner, Rob",1984,USA,82
+391,380,"Turin Horse, The","Tarr, Béla",2011,Hungary,155
+392,391,Limite,"Peixoto, Mario",1931,Brazil,114
+393,381,Nostalghia,"Tarkovsky, Andrei",1983,Italy,120
+394,388,In a Year with 13 Moons,"Fassbinder, Rainer Werner",1978,West Germany,129
+395,414,Woman in the Dunes,"Teshigahara, Hiroshi",1964,Japan,147
+396,387,I Know Where I'm Going!,"Powell, Michael & Emeric Pressburger",1945,UK,92
+397,382,Orlando,"Potter, Sally",1992,UK,94
+398,393,Crimes and Misdemeanors,"Allen, Woody",1989,USA,104
+399,410,"Headless Woman, The","Martel, Lucrecia",2008,Argentina,87
+400,411,Opening Night,"Cassavetes, John",1977,USA,144
+401,408,"Thin Blue Line, The","Morris, Errol",1988,USA,101
+402,409,Suspiria,"Argento, Dario",1977,Italy,92
+403,416,Dogville,"von Trier, Lars",2003,Denmark,177
+404,392,"Flowers of St. Francis, The","Rossellini, Roberto",1950,Italy,83
+405,389,"Birth of a Nation, The","Griffith, D.W.",1915,USA,187
+406,424,Splendor in the Grass,"Kazan, Elia",1961,USA,124
+407,394,"Tenant, The","Polanski, Roman",1976,France,126
+408,402,Dawn of the Dead,"Romero, George A.",1978,USA,126
+409,405,Eyes Without a Face,"Franju, Georges",1960,France,88
+410,412,Snow White and the Seven Dwarfs,"Hand, David",1937,USA,83
+411,399,Orpheus,"Cocteau, Jean",1950,France,95
+412,407,"Awful Truth, The","McCarey, Leo",1937,USA,92
+413,406,Day for Night,"Truffaut, François",1973,France,120
+414,433,Under the Skin,"Glazer, Jonathan",2013,UK,108
+415,400,1900,"Bertolucci, Bernardo",1976,Italy,245
+416,396,Miracle in Milan,"De Sica, Vittorio",1951,Italy,95
+417,419,Fantasia,Various Directors,1940,USA,120
+418,437,Lost in Translation,"Coppola, Sofia",2003,USA,102
+419,420,Chelsea Girls,"Warhol, Andy",1966,USA,210
+420,404,Salvatore Giuliano,"Rosi, Francesco",1962,Italy,125
+421,413,"Plaisir, Le","Ophüls, Max",1952,France,97
+422,432,Bride of Frankenstein,"Whale, James",1935,USA,75
+423,431,Holy Motors,"Carax, Leos",2012,France,115
+424,417,Europa '51,"Rossellini, Roberto",1952,Italy,113
+425,449,"Bonheur, Le","Varda, Agnès",1965,France,79
+426,448,"Star is Born, A","Cukor, George",1954,USA,154
+427,440,Possession,"Zulawski, Andrzej",1981,France,124
+428,418,Days of Being Wild,Wong Kar-wai,1990,Hong Kong,94
+429,460,All the President's Men,"Pakula, Alan J.",1976,USA,138
+430,442,Shadows of Our Forgotten Ancestors,"Parajanov, Sergei",1964,USSR,97
+431,443,Scenes from a Marriage,"Bergman, Ingmar",1973,Sweden,168
+432,446,"Scarlet Empress, The","von Sternberg, Josef",1934,USA,110
+433,427,"Angel at My Table, An","Campion, Jane",1990,New Zealand,158
+434,422,Flowers of Shanghai,Hou Hsiao-hsien,1998,Taiwan,130
+435,423,Winter Light,"Bergman, Ingmar",1963,Sweden,80
+436,425,"Crime of Monsieur Lange, The","Renoir, Jean",1936,France,90
+437,445,Ivan's Childhood,"Tarkovsky, Andrei",1962,USSR,94
+438,428,"Wind, The","Sjöström, Victor",1928,USA,88
+439,452,"Long Goodbye, The","Altman, Robert",1973,USA,112
+440,426,French Cancan,"Renoir, Jean",1955,France,102
+441,451,Accattone,"Pasolini, Pier Paolo",1961,Italy,120
+442,436,If….,"Anderson, Lindsay",1968,UK,111
+443,441,"Innocents, The","Clayton, Jack",1961,UK,100
+444,429,"Shawshank Redemption, The","Darabont, Frank",1994,USA,142
+445,450,"Région centrale, La","Snow, Michael",1971,Canada,180
+446,421,Festen,"Vinterberg, Thomas",1998,Denmark,105
+447,430,Limelight,"Chaplin, Charles",1952,USA,145
+448,470,Koyaanisqatsi,"Reggio, Godfrey",1982,USA,87
+449,435,"Trip to the Moon, A","Méliès, Georges",1902,France,14
+450,434,Shoot the Piano Player,"Truffaut, François",1960,France,81
+451,444,Twenty Years Later,"Coutinho, Eduardo",1984,Brazil,119
+452,455,October,"Eisenstein, Sergei & Grigori Aleksandrov",1928,USSR,103
+453,439,Listen to Britain,"Jennings, Humphrey & Stewart McAllister",1942,UK,20
+454,447,In Vanda's Room,"Costa, Pedro",2000,Portugal,170
+455,480,Phantom Thread,"Anderson, Paul Thomas",2017,USA,130
+456,488,Casino,"Scorsese, Martin",1995,USA,182
+457,477,Pinocchio,"Sharpsteen, Ben & Hamilton Luske",1940,USA,88
+458,454,Naked,"Leigh, Mike",1993,UK,126
+459,459,Paris is Burning,"Livingston, Jennie",1990,USA,78
+460,456,Songs from the Second Floor,"Andersson, Roy",2000,Sweden,98
+461,465,À nos amours,"Pialat, Maurice",1983,France,102
+462,438,"Terra trema, La","Visconti, Luchino",1948,Italy,160
+463,453,"Cameraman, The","Keaton, Buster & Edward Sedgwick",1928,USA,69
+464,471,"Palm Beach Story, The","Sturges, Preston",1942,USA,90
+465,489,A.I. Artificial Intelligence,"Spielberg, Steven",2001,USA,145
+466,474,"Act of Killing, The","Oppenheimer, Joshua",2012,Denmark,115
+467,458,Grave of the Fireflies,"Takahata, Isao",1988,Japan,93
+468,528,"Harlan County, U.S.A.","Kopple, Barbara",1976,USA,103
+469,472,Network,"Lumet, Sidney",1976,USA,121
+470,464,Syndromes and a Century,"Weerasethakul, Apichatpong",2006,Thailand,105
+471,473,Talk to Her,"Almodóvar, Pedro",2002,Spain,112
+472,493,Platform,Jia Zhangke,2000,China,154
+473,457,Barren Lives,"Pereira dos Santos, Nelson",1963,Brazil,103
+474,490,Wagon Master,"Ford, John",1950,USA,86
+475,467,Carrie,"De Palma, Brian",1976,USA,97
+476,461,Senso,"Visconti, Luchino",1954,Italy,123
+477,462,Lola,"Demy, Jacques",1961,France,90
+478,469,High Noon,"Zinnemann, Fred",1952,USA,84
+479,463,Landscape in the Mist,"Angelopoulos, Theo",1988,Greece,127
+480,466,"Dead, The","Huston, John",1987,USA,83
+481,481,Once Upon a Time in Anatolia,"Ceylan, Nuri Bilge",2011,Turkey,157
+482,468,Dersu Uzala,"Kurosawa, Akira",1975,USSR,144
+483,495,Elephant,"Van Sant, Gus",2003,USA,81
+484,476,By the Bluest of Seas,"Barnet, Boris",1936,USSR,71
+485,475,Zama,"Martel, Lucrecia",2017,Argentina,115
+486,478,Raise the Red Lantern,Zhang Yimou,1991,China,125
+487,511,Toni Erdmann,"Ade, Maren",2016,Germany,162
+488,524,Reservoir Dogs,"Tarantino, Quentin",1992,USA,99
+489,508,Withnail & I,"Robinson, Bruce",1987,UK,107
+490,483,"Steamboat Bill, Jr.","Keaton, Buster & Charles Reisner",1928,USA,71
+491,487,"Bitter Tears of Petra von Kant, The","Fassbinder, Rainer Werner",1972,West Germany,124
+492,513,Blow Out,"De Palma, Brian",1981,USA,107
+493,484,Masculin féminin,"Godard, Jean-Luc",1966,France,103
+494,503,After Life,"Koreeda, Hirokazu",1998,Japan,118
+495,485,Shane,"Stevens, George",1953,USA,118
+496,492,"Death of Mr. Lazarescu, The","Puiu, Cristi",2005,Romania,153
+497,486,Our Hospitality,"Keaton, Buster & John G. Blystone",1923,USA,74
+498,545,"Bridge on the River Kwai, The","Lean, David",1957,UK,161
+499,494,Secrets & Lies,"Leigh, Mike",1996,UK,142
+500,491,"Moment of Innocence, A","Makhmalbaf, Mohsen",1996,Iran,78
+501,482,Five Easy Pieces,"Rafelson, Bob",1970,USA,98
+502,500,Marketa Lazarová,"Vlácil, Frantisek",1967,Czechoslovakia,162
+503,502,Early Summer,"Ozu, Yasujiro",1951,Japan,135
+504,515,Twin Peaks: The Return [TV],"Lynch, David",2017,USA,1024
+505,505,Monty Python's Life of Brian,"Jones, Terry",1979,UK,93
+506,525,"Vampires, Les","Feuillade, Louis",1915,France,421
+507,479,To Kill a Mockingbird,"Mulligan, Robert",1962,USA,129
+508,539,Oldboy,Park Chan-wook,2003,South Korea,120
+509,536,Twin Peaks: Fire Walk with Me,"Lynch, David",1992,USA,134
+510,501,Inland Empire,"Lynch, David",2006,USA,180
+511,510,Boogie Nights,"Anderson, Paul Thomas",1997,USA,155
+512,520,Crash,"Cronenberg, David",1996,Canada,100
+513,523,Dead Ringers,"Cronenberg, David",1988,Canada,115
+514,499,"Enigma of Kaspar Hauser, The","Herzog, Werner",1974,West Germany,110
+515,498,"Damned, The","Visconti, Luchino",1969,Italy,155
+516,531,Pan's Labyrinth,"del Toro, Guillermo",2006,Spain,120
+517,521,And Life Goes On...,"Kiarostami, Abbas",1992,Iran,108
+518,512,Closely Watched Trains,"Menzel, Jirí",1966,Czechoslovakia,89
+519,519,Alice in the Cities,"Wenders, Wim",1974,West Germany,110
+520,504,Short Cuts,"Altman, Robert",1993,USA,189
+521,506,"Hustler, The","Rossen, Robert",1961,USA,135
+522,555,Princess Mononoke,"Miyazaki, Hayao",1997,Japan,134
+523,530,No Country for Old Men,"Coen, Joel & Ethan Coen",2007,USA,122
+524,547,Die Hard,"McTiernan, John",1988,USA,131
+525,507,To Have and Have Not,"Hawks, Howard",1944,USA,100
+526,549,Yeelen,"Cissé, Souleymane",1987,Mali,105
+527,496,Blue,"Jarman, Derek",1993,UK,79
+528,522,"Lives of Others, The","von Donnersmarck, Florian Henckel",2006,Germany,138
+529,518,Faust,"Murnau, F.W.",1926,Germany,116
+530,551,"Age of Innocence, The","Scorsese, Martin",1993,USA,133
+531,509,Aparajito,"Ray, Satyajit",1956,India,108
+532,527,Rosetta,"Dardenne, Jean-Pierre & Luc Dardenne",1999,Belgium,94
+533,532,12 Angry Men,"Lumet, Sidney",1957,USA,95
+534,516,East of Eden,"Kazan, Elia",1955,USA,115
+535,517,Alexander Nevsky,"Eisenstein, Sergei",1938,USSR,107
+536,526,Point Blank,"Boorman, John",1967,USA,92
+537,533,Fight Club,"Fincher, David",1999,USA,139
+538,514,Man of Aran,"Flaherty, Robert",1934,UK,77
+539,542,Memories of Murder,Bong Joon-ho,2003,South Korea,132
+540,552,"Je, tu, il, elle","Akerman, Chantal",1974,Belgium,85
+541,548,Nostalgia for the Light,"Guzmán, Patricio",2010,France,90
+542,534,"Lady from Shanghai, The","Welles, Orson",1948,USA,87
+543,538,Hannah and Her Sisters,"Allen, Woody",1986,USA,106
+544,544,Boyhood,"Linklater, Richard",2014,USA,165
+545,529,Strangers on a Train,"Hitchcock, Alfred",1951,USA,101
+546,535,Picnic at Hanging Rock,"Weir, Peter",1975,Australia,110
+547,540,"Terminator, The","Cameron, James",1984,USA,107
+548,497,Russian Ark,"Sokurov, Aleksandr",2002,Russia,99
+549,546,"Devil, Probably, The","Bresson, Robert",1977,France,95
+550,537,"Wind Will Carry Us, The","Kiarostami, Abbas",1999,France,118
+551,579,"Sound of Music, The","Wise, Robert",1965,USA,174
+552,557,"Haine, La","Kassovitz, Mathieu",1995,France,98
+553,568,WALL-E,"Stanton, Andrew",2008,USA,98
+554,554,Dead Man,"Jarmusch, Jim",1995,USA,121
+555,581,I Walked with a Zombie,"Tourneur, Jacques",1943,USA,69
+556,560,Punch-Drunk Love,"Anderson, Paul Thomas",2002,USA,95
+557,541,Fellini Satyricon,"Fellini, Federico",1969,Italy,129
+558,580,Se7en,"Fincher, David",1995,USA,127
+559,563,Young Mr. Lincoln,"Ford, John",1939,USA,100
+560,543,Yellow Earth,Chen Kaige,1984,China,89
+561,559,Doctor Zhivago,"Lean, David",1965,USA,197
+562,553,"Blue Angel, The","von Sternberg, Josef",1930,Germany,103
+563,556,Morvern Callar,"Ramsay, Lynne",2002,UK,97
+564,550,Sambizanga,"Maldoror, Sarah",1972,Angola,97
+565,558,"Wedding March, The","von Stroheim, Erich",1928,USA,113
+566,593,Brokeback Mountain,"Lee, Ang",2005,USA,134
+567,566,Ninotchka,"Lubitsch, Ernst",1939,USA,110
+568,578,"French Connection, The","Friedkin, William",1971,USA,104
+569,615,Children of Men,"Cuarón, Alfonso",2006,USA,109
+570,569,Kagemusha,"Kurosawa, Akira",1980,Japan,159
+571,572,Butch Cassidy and the Sundance Kid,"Hill, George Roy",1969,USA,112
+572,567,"Testament of Dr. Mabuse, The","Lang, Fritz",1933,Germany,120
+573,565,Shadow of a Doubt,"Hitchcock, Alfred",1943,USA,108
+574,592,Cat People,"Tourneur, Jacques",1942,USA,73
+575,595,"Master, The","Anderson, Paul Thomas",2012,USA,144
+576,570,That Obscure Object of Desire,"Buñuel, Luis",1977,France,103
+577,564,Laura,"Preminger, Otto",1944,USA,85
+578,588,Mad Max 2,"Miller, George",1981,Australia,96
+579,571,"Night at the Opera, A","Wood, Sam",1935,USA,96
+580,602,Barton Fink,"Coen, Joel & Ethan Coen",1991,USA,117
+581,562,Easy Rider,"Hopper, Dennis",1969,USA,94
+582,616,Being There,"Ashby, Hal",1979,USA,130
+583,561,"Silence, The","Bergman, Ingmar",1963,Sweden,96
+584,586,Land Without Bread,"Buñuel, Luis",1933,Spain,28
+585,576,Tale of Tales,"Norshteyn, Yuriy",1979,USSR,29
+586,612,Halloween,"Carpenter, John",1978,USA,93
+587,573,"Taking of Power by Louis XIV, The","Rossellini, Roberto",1966,France,100
+588,575,Bigger Than Life,"Ray, Nicholas",1956,USA,95
+589,582,Gentlemen Prefer Blondes,"Hawks, Howard",1953,USA,91
+590,611,Grey Gardens,"Maysles, David/Albert Maysles/Ellen Hovde/Muffie Meyer",1975,USA,95
+591,627,Bande à part,"Godard, Jean-Luc",1964,France,95
+592,632,Tootsie,"Pollack, Sydney",1982,USA,116
+593,641,Colossal Youth,"Costa, Pedro",2006,France,155
+594,591,"Lord of the Rings: The Fellowship of the Ring, The","Jackson, Peter",2001,New Zealand,178
+595,619,Jurassic Park,"Spielberg, Steven",1993,USA,127
+596,599,D'Est,"Akerman, Chantal",1993,Belgium,107
+597,587,Seven Chances,"Keaton, Buster",1925,USA,56
+598,583,"Servant, The","Losey, Joseph",1963,UK,115
+599,608,Repulsion,"Polanski, Roman",1965,UK,105
+600,584,Fellini's Roma,"Fellini, Federico",1972,Italy,128
+601,574,"Crouching Tiger, Hidden Dragon","Lee, Ang",2000,Taiwan,120
+602,597,Hatari!,"Hawks, Howard",1962,USA,157
+603,618,"Long Day Closes, The","Davies, Terence",1992,UK,83
+604,585,Providence,"Resnais, Alain",1977,France,110
+605,590,West Indies,"Hondo, Med",1979,France,110
+606,610,Terminator 2: Judgment Day,"Cameron, James",1991,USA,136
+607,589,"Round-Up, The","Jancsó, Miklós",1966,Hungary,90
+608,601,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,"Mekas, Jonas",2000,USA,288
+609,607,Full Metal Jacket,"Kubrick, Stanley",1987,USA,116
+610,625,Amélie,"Jeunet, Jean-Pierre",2001,France,122
+611,598,"Devils, The","Russell, Ken",1971,UK,109
+612,605,"Amants du Pont-Neuf, Les","Carax, Leos",1991,France,126
+613,577,Forrest Gump,"Zemeckis, Robert",1994,USA,142
+614,603,Edvard Munch [TV],"Watkins, Peter",1974,Sweden,210
+615,600,Boudu Saved from Drowning,"Renoir, Jean",1932,France,87
+616,634,"Ladies Man, The","Lewis, Jerry",1961,USA,95
+617,596,Scorpio Rising,"Anger, Kenneth",1963,USA,28
+618,594,"Red Circle, The","Melville, Jean-Pierre",1970,France,150
+619,629,Shadows,"Cassavetes, John",1959,USA,87
+620,606,Deliverance,"Boorman, John",1972,USA,109
+621,614,My Friend Ivan Lapshin,"German, Aleksei",1985,USSR,100
+622,604,Pink Flamingos,"Waters, John",1972,USA,92
+623,635,"Synecdoche, New York","Kaufman, Charlie",2008,USA,124
+624,609,Loves of a Blonde,"Forman, Milos",1965,Czechoslovakia,88
+625,643,Zodiac,"Fincher, David",2007,USA,158
+626,633,Portrait of Jason,"Clarke, Shirley",1967,USA,105
+627,613,Symbiopsychotaxiplasm: Take One,"Greaves, William",1968,USA,75
+628,648,"Wicker Man, The","Hardy, Robin",1973,UK,103
+629,622,Harakiri,"Kobayashi, Masaki",1962,Japan,133
+630,623,3 Women,"Altman, Robert",1977,USA,125
+631,640,Alphaville,"Godard, Jean-Luc",1965,France,95
+632,631,"Golden Coach, The","Renoir, Jean",1952,Italy,100
+633,624,"Asphalt Jungle, The","Huston, John",1950,USA,112
+634,626,Don't Look Back,"Pennebaker, D.A.",1967,USA,96
+635,628,Hour of the Wolf,"Bergman, Ingmar",1968,Sweden,88
+636,621,Pat Garrett and Billy the Kid,"Peckinpah, Sam",1973,USA,122
+637,620,Hana-bi,"Kitano, Takeshi",1997,Japan,103
+638,630,"Dr. Mabuse, the Gambler","Lang, Fritz",1922,Germany,270
+639,652,Hoop Dreams,"James, Steve",1994,USA,170
+640,725,My Own Private Idaho,"Van Sant, Gus",1991,USA,102
+641,651,Rocky,"Avildsen, John G.",1976,USA,119
+642,647,They Live by Night,"Ray, Nicholas",1948,USA,95
+643,636,Walkabout,"Roeg, Nicolas",1971,UK,100
+644,659,Rebecca,"Hitchcock, Alfred",1940,USA,130
+645,655,Bring Me the Head of Alfredo Garcia,"Peckinpah, Sam",1974,USA,112
+646,675,Frankenstein,"Whale, James",1931,USA,70
+647,644,Casque d'or,"Becker, Jacques",1952,France,96
+648,646,Titanic,"Cameron, James",1997,USA,194
+649,683,Top Hat,"Sandrich, Mark",1935,USA,99
+650,638,Xala,"Sembene, Ousmane",1975,Senegal,123
+651,617,"Vitelloni, I","Fellini, Federico",1953,Italy,104
+652,637,"Dark Knight, The","Nolan, Christopher",2008,USA,152
+653,656,Down by Law,"Jarmusch, Jim",1986,USA,107
+654,645,Strike,"Eisenstein, Sergei",1925,USSR,82
+655,657,"Watermelon Woman, The","Dunye, Cheryl",1996,USA,90
+656,686,"Royal Tenenbaums, The","Anderson, Wes",2001,USA,109
+657,639,"Virgin Spring, The","Bergman, Ingmar",1960,Sweden,88
+658,663,Millennium Mambo,Hou Hsiao-hsien,2001,Taiwan,119
+659,660,Scarface,"Hawks, Howard",1932,USA,93
+660,658,Amour,"Haneke, Michael",2012,Austria,127
+661,649,Bambi,"Hand, David",1942,USA,69
+662,709,Akira,"Otomo, Katsuhiro",1988,Japan,124
+663,650,Fat City,"Huston, John",1972,USA,96
+664,653,"Lady Vanishes, The","Hitchcock, Alfred",1938,UK,97
+665,667,"Marriage of Maria Braun, The","Fassbinder, Rainer Werner",1979,West Germany,120
+666,672,"Posto, Il","Olmi, Ermanno",1961,Italy,93
+667,662,"Ghost and Mrs. Muir, The","Mankiewicz, Joseph L.",1947,USA,104
+668,665,Silent Light,"Reygadas, Carlos",2007,Mexico,136
+669,661,Plácido,"García Berlanga, Luis",1961,Spain,85
+670,714,"Manchurian Candidate, The","Frankenheimer, John",1962,USA,126
+671,654,Nazarín,"Buñuel, Luis",1958,Mexico,94
+672,664,Arrebato,"Zulueta, Iván",1979,Spain,105
+673,669,"Intruder, The","Denis, Claire",2004,France,130
+674,668,"Sorrow and the Pity, The","Ophüls, Marcel",1969,France,260
+675,677,"Navigator, The","Keaton, Buster & Donald Crisp",1924,USA,59
+676,642,"Farewell, My Concubine",Chen Kaige,1993,China,155
+677,673,Hyènes,"Diop Mambéty, Djibril",1992,Senegal,110
+678,671,Ratcatcher,"Ramsay, Lynne",1999,UK,94
+679,754,Mr. Smith Goes to Washington,"Capra, Frank",1939,USA,129
+680,678,W.R.: Mysteries of the Organism,"Makavejev, Dusan",1971,Yugoslavia,84
+681,676,Trainspotting,"Boyle, Danny",1996,UK,95
+682,670,Chronicle of a Summer,"Rouch, Jean & Edgar Morin",1961,France,85
+683,674,7 Women,"Ford, John",1965,USA,87
+684,685,Local Hero,"Forsyth, Bill",1983,UK,111
+685,684,Wild at Heart,"Lynch, David",1990,USA,127
+686,708,Gimme Shelter,"Maysles, Albert/David Maysles/Charlotte Zwerin",1970,USA,91
+687,711,Rushmore,"Anderson, Wes",1998,USA,93
+688,679,"Party, The","Edwards, Blake",1968,USA,99
+689,700,Cure,"Kurosawa, Kiyoshi",1997,Japan,111
+690,680,Nouvelle vague,"Godard, Jean-Luc",1990,France,90
+691,712,Robocop,"Verhoeven, Paul",1987,USA,102
+692,741,"Prophet, A","Audiard, Jacques",2009,France,155
+693,688,Chronicle of Anna Magdalena Bach,"Straub, Jean-Marie",1968,West Germany,94
+694,687,Toy Story,"Lasseter, John",1995,USA,81
+695,760,Young Frankenstein,"Brooks, Mel",1974,USA,105
+696,694,"Purple Rose of Cairo, The","Allen, Woody",1985,USA,82
+697,722,Salesman,"Maysles, Albert/David Maysles/Charlotte Zwerin",1969,USA,85
+698,691,"Holy Mountain, The","Jodorowsky, Alejandro",1973,Mexico,114
+699,705,Sauve qui peut (la vie),"Godard, Jean-Luc",1980,France,87
+700,702,Wake in Fright,"Kotcheff, Ted",1971,Australia,109
+701,692,Lancelot du Lac,"Bresson, Robert",1974,France,85
+702,698,Before Sunset,"Linklater, Richard",2004,USA,80
+703,682,"Piano Teacher, The","Haneke, Michael",2001,Austria,130
+704,759,Roma,"Cuarón, Alfonso",2018,Mexico,135
+705,666,"Phantom of Liberty, The","Buñuel, Luis",1974,France,104
+706,775,When Harry Met Sally...,"Reiner, Rob",1989,USA,95
+707,747,"Place in the Sun, A","Stevens, George",1951,USA,122
+708,689,"Sun Shines Bright, The","Ford, John",1953,USA,90
+709,755,Hunger,"McQueen, Steve",2008,UK,96
+710,706,"4 Months, 3 Weeks and 2 Days","Mungiu, Cristian",2007,Romania,113
+711,736,Kaagaz Ke Phool,"Dutt, Guru",1959,India,148
+712,690,"Hawks and the Sparrows, The","Pasolini, Pier Paolo",1966,Italy,91
+713,721,Dancer in the Dark,"von Trier, Lars",2000,Denmark,140
+714,715,Carol,"Haynes, Todd",2015,UK,118
+715,719,"Great Beauty, The","Sorrentino, Paolo",2013,Italy,141
+716,696,Thelma & Louise,"Scott, Ridley",1991,USA,128
+717,791,Moulin Rouge!,"Luhrmann, Baz",2001,Australia,127
+718,707,Ace in the Hole,"Wilder, Billy",1951,USA,112
+719,757,"Adventures of Prince Achmed, The","Reiniger, Lotte",1926,Germany,65
+720,773,"Killing, The","Kubrick, Stanley",1956,USA,85
+721,704,"Circus, The","Chaplin, Charles",1928,USA,72
+722,693,One Way or Another,"Gómez, Sara",1977,Cuba,78
+723,699,Moonfleet,"Lang, Fritz",1955,USA,89
+724,701,Antonio das Mortes,"Rocha, Glauber",1969,Brazil,95
+725,681,"Grido, Il","Antonioni, Michelangelo",1957,Italy,111
+726,766,Stand by Me,"Reiner, Rob",1986,USA,89
+727,703,"Tiger of Eschnapur, The","Lang, Fritz",1958,West Germany,101
+728,729,Ben-Hur,"Wyler, William",1959,USA,212
+729,695,"Short Film About Killing, A","Kieslowski, Krzysztof",1987,Poland,85
+730,717,"Hard Day's Night, A","Lester, Richard",1964,UK,87
+731,718,"New York, New York","Scorsese, Martin",1977,USA,155
+732,730,Fish Tank,"Arnold, Andrea",2009,UK,123
+733,713,"Big Heat, The","Lang, Fritz",1953,USA,90
+734,716,"Oh, Sun","Hondo, Med",1967,France,103
+735,723,Design for Living,"Lubitsch, Ernst",1933,USA,90
+736,710,Love Me Tonight,"Mamoulian, Rouben",1932,USA,96
+737,726,"Emperor's Naked Army Marches On, The","Hara, Kazuo",1987,Japan,122
+738,841,Paper Moon,"Bogdanovich, Peter",1973,USA,102
+739,740,"Bad and the Beautiful, The","Minnelli, Vincente",1952,USA,118
+740,697,Triumph of the Will,"Riefenstahl, Leni",1935,Germany,110
+741,748,"New Leaf, A","May, Elaine",1971,USA,102
+742,781,Titicut Follies,"Wiseman, Frederick",1967,USA,84
+743,764,Phantom of the Paradise,"De Palma, Brian",1974,USA,91
+744,783,"Fly, The","Cronenberg, David",1986,USA,96
+745,814,"Social Network, The","Fincher, David",2010,USA,120
+746,737,Subarnarekha,"Ghatak, Ritwik",1965,India,126
+747,823,Y tu mamá también,"Cuarón, Alfonso",2001,Mexico,105
+748,753,Raising Arizona,"Coen, Joel & Ethan Coen",1987,USA,94
+749,735,Distant,"Ceylan, Nuri Bilge",2002,Turkey,110
+750,761,Detour,"Ulmer, Edgar G.",1945,USA,69
+751,732,"Dames du Bois de Boulogne, Les","Bresson, Robert",1945,France,85
+752,724,"Belle Noiseuse, La","Rivette, Jacques",1991,France,240
+753,720,Flaming Creatures,"Smith, Jack",1963,USA,45
+754,789,Dazed and Confused,"Linklater, Richard",1993,USA,103
+755,803,"Streetcar Named Desire, A","Kazan, Elia",1951,USA,122
+756,743,"Wild Child, The","Truffaut, François",1970,France,85
+757,792,"New World, The","Malick, Terrence",2005,USA,135
+758,794,Veronika Voss,"Fassbinder, Rainer Werner",1982,West Germany,105
+759,728,Vive L'Amour,Tsai Ming-liang,1994,Taiwan,118
+760,727,"Age of the Earth, The","Rocha, Glauber",1980,Brazil,158
+761,739,Born in Flames,"Borden, Lizzie",1983,USA,79
+762,752,Good Morning,"Ozu, Yasujiro",1959,Japan,94
+763,770,Great Expectations,"Lean, David",1946,UK,118
+764,731,Hellzapoppin',"Potter, H.C.",1941,USA,84
+765,733,Ossessione,"Visconti, Luchino",1943,Italy,140
+766,734,"Trial, The","Welles, Orson",1962,France,119
+767,738,Wings,"Shepitko, Larisa",1966,USSR,85
+768,749,Foolish Wives,"von Stroheim, Erich",1922,USA,117
+769,744,Mother and Son,"Sokurov, Aleksandr",1997,Russia,73
+770,745,Lolita,"Kubrick, Stanley",1962,UK,152
+771,746,"Diaries, Notes and Sketches","Mekas, Jonas",1969,USA,177
+772,808,Malcolm X,"Lee, Spike",1992,USA,201
+773,763,"39 Steps, The","Hitchcock, Alfred",1935,UK,87
+774,742,Zelig,"Allen, Woody",1983,USA,79
+775,756,Cairo Station,"Chahine, Youssef",1958,Egypt,76
+776,831,"American Werewolf in London, An","Landis, John",1981,USA,97
+777,750,"Man Who Would Be King, The","Huston, John",1975,UK,129
+778,751,"Chant d'amour, Un","Genet, Jean",1950,France,26
+779,817,"Faster, Pussycat! Kill! Kill!","Meyer, Russ",1965,USA,83
+780,804,Big Deal on Madonna Street,"Monicelli, Mario",1958,Italy,91
+781,786,"Cook, the Thief, His Wife & Her Lover, The","Greenaway, Peter",1989,UK,124
+782,765,Taipei Story,"Yang, Edward",1985,Taiwan,119
+783,777,Code Unknown,"Haneke, Michael",2000,France,118
+784,776,Blissfully Yours,"Weerasethakul, Apichatpong",2002,Thailand,125
+785,778,"Diaboliques, Les","Clouzot, Henri-Georges",1955,France,114
+786,782,Morocco,"von Sternberg, Josef",1930,USA,92
+787,787,Mamma Roma,"Pasolini, Pier Paolo",1962,Italy,110
+788,772,"Ballad of Narayama, The","Imamura, Shohei",1983,Japan,130
+789,767,Two English Girls,"Truffaut, François",1971,France,108
+790,762,Fort Apache,"Ford, John",1948,USA,127
+791,758,Rebel Without a Cause,"Ray, Nicholas",1955,USA,111
+792,821,Ferris Bueller's Day Off,"Hughes, John",1986,USA,103
+793,798,Trouble Every Day,"Denis, Claire",2001,France,101
+794,771,Miller's Crossing,"Coen, Joel & Ethan Coen",1990,USA,115
+795,832,"Producers, The","Brooks, Mel",1968,USA,88
+796,852,35 Shots of Rum,"Denis, Claire",2008,France,101
+797,829,Memento,"Nolan, Christopher",2000,USA,113
+798,793,Duck Amuck,"Jones, Chuck",1953,USA,7
+799,830,Forbidden Games,"Clément, René",1952,France,87
+800,788,Dog Star Man,"Brakhage, Stan",1964,USA,75
+801,815,Requiem for a Dream,"Aronofsky, Darren",2000,USA,100
+802,827,"Idiots, The","von Trier, Lars",1998,Denmark,117
+803,780,Mädchen in Uniform,"Sagan, Leontine",1931,Germany,87
+804,802,All Quiet on the Western Front,"Milestone, Lewis",1930,USA,133
+805,813,Rose Hobart,"Cornell, Joseph",1936,USA,20
+806,769,Funny Games,"Haneke, Michael",1997,Austria,108
+807,811,JFK,"Stone, Oliver",1991,USA,189
+808,768,Passion,"Godard, Jean-Luc",1982,France,87
+809,805,Broadcast News,"Brooks, James L.",1987,USA,133
+810,824,Evil Dead II,"Raimi, Sam",1987,USA,84
+811,795,Still Life,Jia Zhangke,2006,China,113
+812,774,Abraham's Valley,"Oliveira, Manoel de",1993,Portugal,187
+813,784,Red Beard,"Kurosawa, Akira",1965,Japan,185
+814,790,My Life as a Dog,"Hallström, Lasse",1985,Sweden,101
+815,806,Women on the Verge of a Nervous Breakdown,"Almodóvar, Pedro",1988,Spain,88
+816,818,Shock Corridor,"Fuller, Samuel",1963,USA,101
+817,785,Chikamatsu monogatari,"Mizoguchi, Kenji",1954,Japan,100
+818,812,Van Gogh,"Pialat, Maurice",1991,France,158
+819,845,O Lucky Man!,"Anderson, Lindsay",1973,UK,178
+820,810,"Woman of Paris, A","Chaplin, Charles",1923,USA,78
+821,779,"Firemen's Ball, The","Forman, Milos",1967,Czechoslovakia,73
+822,799,She Wore a Yellow Ribbon,"Ford, John",1949,USA,103
+823,820,Losing Ground,"Collins, Kathleen",1982,USA,86
+824,797,Dodes'ka-den,"Kurosawa, Akira",1970,Japan,140
+825,800,Street of Shame,"Mizoguchi, Kenji",1956,Japan,87
+826,835,Edward Scissorhands,"Burton, Tim",1990,USA,105
+827,840,"Thief of Bagdad, The","Powell, Michael/Ludwig Berger/Tim Whelan",1940,UK,106
+828,801,Dumbo,"Sharpsteen, Ben",1941,USA,64
+829,825,Petite Maman,"Sciamma, Céline",2021,France,73
+830,833,Deep End,"Skolimowski, Jerzy",1970,UK,88
+831,807,Smiles of a Summer Night,"Bergman, Ingmar",1955,Sweden,108
+832,809,"Sur, El","Erice, Victor",1983,Spain,95
+833,837,Funeral Parade of Roses,"Matsumoto, Toshio",1969,Japan,105
+834,796,Gummo,"Korine, Harmony",1997,USA,88
+835,857,"Naked Island, The","Shindo, Kaneto",1960,Japan,96
+836,836,"Commune (Paris, 1871), La","Watkins, Peter",2000,France,345
+837,876,Margaret,"Lonergan, Kenneth",2011,USA,150
+838,816,"Son, The","Dardenne, Jean-Pierre & Luc Dardenne",2002,Belgium,103
+839,888,Female Trouble,"Waters, John",1974,USA,98
+840,819,Hitler: A Film from Germany,"Syberberg, Hans-Jürgen",1977,West Germany,442
+841,822,White Heat,"Walsh, Raoul",1949,USA,114
+842,839,"Right Stuff, The","Kaufman, Philip",1983,USA,193
+843,858,Scarface,"De Palma, Brian",1983,USA,170
+844,828,They Were Expendable,"Ford, John",1945,USA,135
+845,850,Once Upon a Time... in Hollywood,"Tarantino, Quentin",2019,USA,161
+846,838,Sicilia!,"Straub, Jean-Marie & Danièle Huillet",1999,Italy,66
+847,891,Persepolis,"Paronnaud, Vincent & Marjane Satrapi",2007,France,96
+848,851,Grizzly Man,"Herzog, Werner",2005,USA,103
+849,896,My Little Loves,"Eustache, Jean",1974,France,123
+850,856,"Too Early, Too Late","Straub, Jean-Marie & Danièle Huillet",1981,France,100
+851,860,Shame,"Bergman, Ingmar",1968,Sweden,103
+852,855,Inglourious Basterds,"Tarantino, Quentin",2009,USA,153
+853,826,"Tin Drum, The","Schlöndorff, Volker",1979,West Germany,142
+854,847,Invasion of the Body Snatchers,"Siegel, Don",1956,USA,80
+855,854,Spione,"Lang, Fritz",1928,Germany,90
+856,843,Point Break,"Bigelow, Kathryn",1991,USA,122
+857,877,Toute une nuit,"Akerman, Chantal",1982,Belgium,90
+858,844,Breakfast at Tiffany's,"Edwards, Blake",1961,USA,115
+859,883,Shanghai Express,"von Sternberg, Josef",1932,USA,82
+860,848,Irréversible,"Noé, Gaspar",2002,France,97
+861,874,Starship Troopers,"Verhoeven, Paul",1997,USA,129
+862,897,Amores perros,"González Iñárritu, Alejandro",2000,Mexico,153
+863,893,"Asthenic Syndrome, The","Muratova, Kira",1989,USSR,153
+864,834,We All Loved Each Other So Much,"Scola, Ettore",1974,Italy,124
+865,878,Time of the Gypsies,"Kusturica, Emir",1988,Yugoslavia,142
+866,863,Blue is the Warmest Colour,"Kechiche, Abdellatif",2013,France,179
+867,873,Clueless,"Heckerling, Amy",1995,USA,97
+868,842,Outskirts,"Barnet, Boris",1933,USSR,98
+869,875,Angel,"Lubitsch, Ernst",1937,USA,91
+870,849,"Adventures of Robin Hood, The","Curtiz, Michael & William Keighley",1938,USA,102
+871,853,"Unknown, The","Browning, Tod",1927,USA,63
+872,846,Red Sorghum,Zhang Yimou,1987,China,91
+873,894,Mikey and Nicky,"May, Elaine",1976,USA,106
+874,884,Gloria,"Cassavetes, John",1980,USA,121
+875,901,Monty Python and the Holy Grail,"Gilliam, Terry & Terry Jones",1975,UK,90
+876,---,After Hours,"Scorsese, Martin",1985,USA,97
+877,867,"Miracle of Morgan's Creek, The","Sturges, Preston",1944,USA,99
+878,859,"Misfits, The","Huston, John",1961,USA,124
+879,866,"Great Escape, The","Sturges, John",1963,USA,172
+880,885,"Amour fou, L'","Rivette, Jacques",1968,France,252
+881,890,Mysteries of Lisbon,"Ruiz, Raúl",2010,Portugal,272
+882,865,Akira Kurosawa's Dreams,"Kurosawa, Akira",1990,Japan,119
+883,881,"Spring, Summer, Autumn, Winter… and Spring",Kim Ki-duk,2003,South Korea,103
+884,869,"African Queen, The","Huston, John",1951,USA,105
+885,862,"Seasons, The","Peleshian, Artavazd",1975,USSR,29
+886,861,"Night of Counting the Years, The","Salam, Shadi Abdel",1969,Egypt,102
+887,872,Claire's Knee,"Rohmer, Eric",1970,France,105
+888,889,Juliet of the Spirits,"Fellini, Federico",1965,Italy,148
+889,915,Saving Private Ryan,"Spielberg, Steven",1998,USA,169
+890,864,"Woman Next Door, The","Truffaut, François",1981,France,106
+891,880,It's a Gift,"McLeod, Norman Z.",1934,USA,73
+892,870,Heimat [TV],"Reitz, Edgar",1984,West Germany,924
+893,886,Stroszek,"Herzog, Werner",1977,West Germany,115
+894,900,Showgirls,"Verhoeven, Paul",1995,USA,128
+895,879,Assault on Precinct 13,"Carpenter, John",1976,USA,90
+896,887,Exotica,"Egoyan, Atom",1994,Canada,104
+897,975,Caro diario,"Moretti, Nanni",1993,Italy,100
+898,974,Who's Afraid of Virginia Woolf?,"Nichols, Mike",1966,USA,129
+899,930,Airplane!,"Abrahams, Jim/David Zucker/Jerry Zucker",1980,USA,86
+900,868,"Phantom Carriage, The","Sjöström, Victor",1921,Sweden,107
+901,892,"End of Summer, The","Ozu, Yasujiro",1961,Japan,103
+902,871,Zabriskie Point,"Antonioni, Michelangelo",1970,USA,112
+903,913,Deep Red,"Argento, Dario",1975,Italy,98
+904,943,"River, The",Tsai Ming-liang,1997,Taiwan,115
+905,895,"Red and the White, The","Jancsó, Miklós",1967,Hungary,90
+906,914,Simon of the Desert,"Buñuel, Luis",1965,Mexico,43
+907,902,Wendy and Lucy,"Reichardt, Kelly",2008,USA,80
+908,921,"Bridges of Madison County, The","Eastwood, Clint",1995,USA,135
+909,899,Ceddo,"Sembene, Ousmane",1977,Senegal,120
+910,898,Sideways,"Payne, Alexander",2004,USA,123
+911,882,Welfare,"Wiseman, Frederick",1975,USA,167
+912,917,Atlantics,"Diop, Mati",2019,France,106
+913,924,Let the Right One In,"Alfredson, Tomas",2008,Sweden,114
+914,955,"Boucher, Le","Chabrol, Claude",1970,France,94
+915,977,They Live,"Carpenter, John",1988,USA,93
+916,957,"American in Paris, An","Minnelli, Vincente",1951,USA,115
+917,907,Night of the Demon,"Tourneur, Jacques",1957,UK,95
+918,909,Zorns Lemma,"Frampton, Hollis",1970,USA,60
+919,906,"Criminal Life of Archibaldo de la Cruz, The","Buñuel, Luis",1955,Mexico,91
+920,911,Tongues Untied,"Riggs, Marlon",1989,USA,55
+921,920,"Last Temptation of Christ, The","Scorsese, Martin",1988,USA,164
+922,904,Anatomy of a Murder,"Preminger, Otto",1959,USA,160
+923,912,Cemetery of Splendour,"Weerasethakul, Apichatpong",2015,Thailand,122
+924,903,Cría cuervos,"Saura, Carlos",1976,Spain,110
+925,952,Reds,"Beatty, Warren",1981,USA,200
+926,929,Seven Beauties,"Wertmüller, Lina",1975,Italy,116
+927,964,"Killer, The","Woo, John",1989,Hong Kong,110
+928,927,Meek's Cutoff,"Reichardt, Kelly",2010,USA,104
+929,908,Mothlight,"Brakhage, Stan",1963,USA,4
+930,910,From the Clouds to the Resistance,"Straub, Jean-Marie & Danièle Huillet",1979,Italy,104
+931,923,Dirty Harry,"Siegel, Don",1971,USA,102
+932,972,Roman Holiday,"Wyler, William",1953,USA,118
+933,918,7th Heaven,"Borzage, Frank",1927,USA,119
+934,938,Mon oncle d'Amérique,"Resnais, Alain",1980,France,123
+935,919,Portrait of Jennie,"Dieterle, William",1948,USA,86
+936,962,"Enfance nue, L'","Pialat, Maurice",1968,France,80
+937,905,People on Sunday,"Siodmak, Robert & Edgar G. Ulmer",1930,Germany,74
+938,951,Elephant [TV],"Clarke, Alan",1989,UK,39
+939,971,Blood Simple,"Coen, Joel & Ethan Coen",1984,USA,97
+940,945,"History of Violence, A","Cronenberg, David",2005,USA,96
+941,925,"Khrustalyov, My Car!","German, Aleksei",1998,Russia,147
+942,---,"Ice Storm, The","Lee, Ang",1997,USA,113
+943,956,Near Dark,"Bigelow, Kathryn",1987,USA,95
+944,922,"Last Emperor, The","Bertolucci, Bernardo",1987,China,163
+945,928,"Fountainhead, The","Vidor, King",1949,USA,114
+946,969,Before Sunrise,"Linklater, Richard",1995,USA,101
+947,944,American Beauty,"Mendes, Sam",1999,USA,121
+948,926,Doomed Love [TV],"Oliveira, Manoel de",1978,Portugal,262
+949,---,Tabu,"Gomes, Miguel",2012,Portugal,118
+950,940,"Chienne, La","Renoir, Jean",1931,France,95
+951,934,Perfumed Nightmare,"Tahimik, Kidlat",1977,Philippines,93
+952,931,Sawdust and Tinsel,"Bergman, Ingmar",1953,Sweden,92
+953,984,Fox and His Friends,"Fassbinder, Rainer Werner",1975,West Germany,123
+954,933,Duel in the Sun,"Vidor, King",1946,USA,130
+955,941,Olympia,"Riefenstahl, Leni",1938,Germany,201
+956,935,True Heart Susie,"Griffith, D.W.",1919,USA,87
+957,942,American Graffiti,"Lucas, George",1973,USA,110
+958,948,Léon,"Besson, Luc",1994,France,119
+959,954,"Moi, un Noir","Rouch, Jean",1958,France,70
+960,981,"Tarnished Angels, The","Sirk, Douglas",1957,USA,91
+961,916,Othello,"Welles, Orson",1951,Italy,90
+962,939,Port of Shadows,"Carné, Marcel",1938,France,91
+963,---,Shaun of the Dead,"Wright, Edgar",2004,UK,99
+964,937,Gun Crazy,"Lewis, Joseph H.",1950,USA,86
+965,980,"Return, The","Zvyagintsev, Andrey",2003,Russia,110
+966,---,Summer with Monika,"Bergman, Ingmar",1953,Sweden,96
+967,968,Rope,"Hitchcock, Alfred",1948,USA,80
+968,---,Ride the High Country,"Peckinpah, Sam",1962,USA,94
+969,961,Anatahan,"von Sternberg, Josef",1953,Japan,92
+970,---,I Am Twenty,"Khutsiev, Marlen",1965,USSR,189
+971,976,"Lord of the Rings: The Return of the King, The","Jackson, Peter",2003,New Zealand,201
+972,947,"Bête humaine, La","Renoir, Jean",1938,France,100
+973,986,"Page of Madness, A","Kinugasa, Teinosuke",1926,Japan,70
+974,959,Duel,"Spielberg, Steven",1971,USA,90
+975,987,Z,"Costa-Gavras, Constantin",1969,France,127
+976,---,Gilda,"Vidor, Charles",1946,USA,110
+977,979,Beyond the Valley of the Dolls,"Meyer, Russ",1970,USA,109
+978,---,"Breakfast Club, The","Hughes, John",1985,USA,97
+979,953,"Reckless Moment, The","Ophüls, Max",1949,USA,82
+980,---,Avatar,"Cameron, James",2009,USA,161
+981,958,Spartacus,"Kubrick, Stanley",1960,USA,197
+982,965,"Trou, Le","Becker, Jacques",1960,France,131
+983,960,Handsworth Songs,"Akomfrah, John",1986,UK,61
+984,1000,Carlito's Way,"De Palma, Brian",1993,USA,144
+985,982,Sweetie,"Campion, Jane",1989,Australia,97
+986,946,Numéro deux,"Godard, Jean-Luc",1975,France,88
+987,996,Sholay,"Sippy, Ramesh",1975,India,162
+988,988,"Host, The",Bong Joon-ho,2006,South Korea,119
+989,970,Berlin: Symphony of a Great City,"Ruttmann, Walter",1927,Germany,65
+990,---,"Sorpasso, Il","Risi, Dino",1962,Italy,105
+991,---,Ed Wood,"Burton, Tim",1994,USA,124
+992,950,Arabian Nights,"Pasolini, Pier Paolo",1974,Italy,130
+993,983,"America, America","Kazan, Elia",1963,USA,168
+994,966,"Godfather Part III, The","Coppola, Francis Ford",1990,USA,161
+995,967,Cul-de-sac,"Polanski, Roman",1966,UK,111
+996,999,Kwaidan,"Kobayashi, Masaki",1964,Japan,183
+997,990,Mildred Pierce,"Curtiz, Michael",1945,USA,109
+998,993,"Naked Kiss, The","Fuller, Samuel",1964,USA,90
+999,973,"Last Detail, The","Ashby, Hal",1973,USA,105
+1000,991,Lady Windermere's Fan,"Lubitsch, Ernst",1925,USA,120
